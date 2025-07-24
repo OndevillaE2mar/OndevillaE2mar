@@ -1,7 +1,7 @@
 👋 Hi! I'm EDMAR ONDEVILLA, a Information Technology with a passion for Website Design & WEb Developer
 
 📚 Learning:
-- Java, C++, and Python
+- Java, PHP , and Python
 - Web development (HTML, CSS, JavaScript)
 - Web Design (Figma,Balsamiq,Canva)
 - Website Builders (No Code / Low Code)
