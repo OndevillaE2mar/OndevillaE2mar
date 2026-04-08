@@ -1,4 +1,4 @@
-👋 Hi! I'm EDMAR ONDEVILLA, a Information Technology with a passion for Website Design & WEb Developer
+👋 Hi! I'm EDMAR ONDEVILLA, a Information Technology with a passion for Website Design & Web Developer
 
 📚 Learning:
 - Java, PHP , and Python
